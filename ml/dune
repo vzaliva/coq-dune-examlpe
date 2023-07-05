@@ -1,6 +1,5 @@
 (library
  (name bar)
- (package example-ocaml)
  (public_name example-ocaml.bar)
  (modules bar)
  (wrapped false)
