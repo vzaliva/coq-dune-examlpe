@@ -1,0 +1,5 @@
+(coq.extraction
+ (prelude Extract)
+ (extracted_modules Foo CRelationClasses Datatypes)
+ (theories Common)
+)
